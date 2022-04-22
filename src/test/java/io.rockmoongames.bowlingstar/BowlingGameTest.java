@@ -1,7 +1,7 @@
 class BowlingGameTest {
 
 	@Test
-	public void TatianaTestOne() {
+	public void JessicaTestOne() {
 
 	}
 }
